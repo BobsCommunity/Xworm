@@ -2,6 +2,8 @@
 
 #Features
 
+⭐️ Installation :
+ | Xworm V.6 |
 ⭐️ Builder :
 
  | Schtasks - Startup - Registry |
